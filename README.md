@@ -4,26 +4,19 @@
 
 A structured record of my Python journey, from fundamentals to data analytics and automation. Topics are ordered so each one builds only on what came before. Every program here is a hammer strike: practiced, refined, and committed.
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
+ 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
-
+ 
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
+ 
 
 ![Status](https://img.shields.io/badge/Status-Actively_Learning-orange?style=for-the-badge)
-
-
 
 ---
 
@@ -32,7 +25,7 @@ Master Python from first principles, then apply it to **data analytics** and **I
 
 ## 🗺️ Roadmap
 
-### 🔹 Phase 1: Python Core
+ 🔹 Phase 1: Python Core
 - [ ] `01-setup-and-first-program` installing Python, running scripts, print, comments
 - [ ] `02-variables-and-data-types` variables, int, float, str, bool, type conversion
 - [ ] `03-operators` arithmetic, comparison, logical, assignment operators
@@ -47,7 +40,7 @@ Master Python from first principles, then apply it to **data analytics** and **I
 - [ ] `12-functions` parameters, return values, default arguments
 - [ ] `13-functions-advanced` scope, *args/**kwargs, lambda, map/filter, recursion
 
-### 🔹 Phase 2: Intermediate Python
+🔹 Phase 2: Intermediate Python
 - [ ] `14-error-handling-and-debugging` try/except/finally, raising errors, debugging
 - [ ] `15-file-handling` text files, CSV, JSON, context managers
 - [ ] `16-modules-packages-and-pip` imports, own modules, pip, virtual environments
@@ -59,7 +52,7 @@ Master Python from first principles, then apply it to **data analytics** and **I
 - [ ] `22-apis-and-web-requests` requests library, JSON APIs
 - [ ] `23-algorithms-and-problem-solving` searching, sorting, complexity basics
 
-### 🔹 Phase 3: Data Analytics
+🔹 Phase 3: Data Analytics
 - [ ] `24-numpy` arrays, indexing, slicing, vectorized operations
 - [ ] `25-pandas-basics` Series, DataFrames, reading files, selecting data
 - [ ] `26-data-cleaning` missing values, duplicates, data types, outliers
@@ -69,30 +62,30 @@ Master Python from first principles, then apply it to **data analytics** and **I
 - [ ] `30-statistics-for-analysis` mean, median, variance, correlation, distributions
 - [ ] `31-exploratory-data-analysis` full EDA on real datasets
 
-### 🔹 Phase 4: Automation (optional)
+🔹 Phase 4: Automation (optional)
 - [ ] `32-ip-addressing-with-python` ipaddress module, subnet calculations
 - [ ] `33-socket-basics` client/server basics
 - [ ] `34-automation-scripts` automating file and system tasks
 - [ ] `35-device-automation` SSH automation with Paramiko / Netmiko
 
-### 🔹 Phase 5: Projects
+🔹 Phase 5: Projects
 - [ ] `36-projects` complete projects, each with its own README
 
 ---
 
-## 🧭 How I Work
+🧭 How I Work
 - Learn in order: no topic before its prerequisites
 - Practice daily, commit often
 - Write clean, commented code
 - Solve small problems after every topic
 - Build a mini project at the end of each phase
 
-## 🤝 Connect
-[
+🤝 Connect
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/abdulrehman-muzaffar)
+(https://www.linkedin.com/in/abdulrehman-muzaffar)
 
 ---
 ⭐ *Discipline today, mastery tomorrow.*
