@@ -4,22 +4,15 @@
 
 A structured record of my Python journey, from fundamentals to data analytics and automation. Topics are ordered so each one builds only on what came before. Every program here is a hammer strike: practiced, refined, and committed.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
- 
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
- 
-
-![Status](https://img.shields.io/badge/Status-Actively_Learning-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 🎯 Goal
+🎯 Goal
 Master Python from first principles, then apply it to **data analytics** and **IT automation**.
 
-## 🗺️ Roadmap
+
+🗺️ Roadmap
 
  🔹 Phase 1: Python Core
 - [ ] `01-setup-and-first-program` installing Python, running scripts, print, comments
