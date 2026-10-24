@@ -9,6 +9,7 @@ A structured record of my Python journey, from fundamentals to data analytics an
 ---
 
 🎯 Goal
+
 Master Python from first principles, then apply it to **data analytics** and **IT automation**.
 
 
