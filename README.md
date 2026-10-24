@@ -4,11 +4,7 @@
 
 A structured record of my Python journey, from fundamentals to data analytics and automation. Topics are ordered so each one builds only on what came before. Every program here is a hammer strike: practiced, refined, and committed.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
- 
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
  
 
